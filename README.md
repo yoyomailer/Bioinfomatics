@@ -1,2 +1,2 @@
 # Bioinfomatics
-Used for bioinformatics analysis
+Bioinformatics analysis workflows for PMC group in BioX, SJTU
